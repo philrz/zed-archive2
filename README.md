@@ -4,7 +4,7 @@ Ongoing development of the code base for the project formerly known as Zed has
 moved to the [SuperDB project](https://github.com/brimdata/super).
 
 This archive repository captures a point-in-time record of Zed as of its
-[final GA release v1.18.0](https://github.com/philrz/zed-archive2/releases/tag/v1.18.0).
+[final GA release v1.18.0](https://github.com/philrz/zed-archive2/releases/tag/v1.18.0) ([documentation](https://zed.brimdata.io/docs)).
 The [CHANGELOG](CHANGELOG.md) documents the history of Zed up to that release.
 The headers in the CHANGELOG are hyperlinks to the commit hashes in the
 [super repo](https://github.com/brimdata/super) that correspond to when each
